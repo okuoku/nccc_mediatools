@@ -1,0 +1,6 @@
+[submodule "ext/canvas_ity"]
+	path = ext/canvas_ity
+	url = https://github.com/a-e-k/canvas_ity
+[submodule "ext/stb"]
+	path = ext/stb
+	url = https://github.com/nothings/stb
